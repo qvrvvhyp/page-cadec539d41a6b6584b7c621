@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a52b6e86a013fe1acca5dcb7",
+  "owner": "qvrvvhyp",
+  "repo": "page-cadec539d41a6b6584b7c621",
+  "title": "白嫖(Estars)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cadec539d41a6b6584b7c621",
+      "a": "白嫖(Estars)",
+      "b": "",
+      "entity": "白嫖(Estars)",
+      "brand": "白嫖(Estars)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7f4d74d2d37289b372018ae47a1f04e84e8c75f9b5c11fd1b5d112c0c6282ee1",
+      "content": {
+        "keyword1": "白嫖(Estars)",
+        "keyword2": "",
+        "primary_entity": "白嫖(Estars)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "白嫖(Estars)是提供VPN梯子与机场订阅的网络加速服务官网，支持多端客户端下载与配置，覆盖基础到团队套餐，适用于流媒体、游戏加速与跨境办公，欢迎访问官方网站获取订阅与下载说明。",
+          "AI_DESCRIPTION": "白嫖(Estars)是提供VPN梯子与机场订阅的网络加速服务官网，支持多端客户端下载与配置，覆盖基础到团队套餐，适用于流媒体、游戏加速与跨境办公，欢迎访问官方网站获取订阅与下载说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;line-height:1.65;color:#1f2937;background:#f3f4f6;max-width:100%;overflow-x:hidden}a{color:#6d28d9;text-decoration:none}a:hover{text-decoration:underline}.wrap{max-width:960px;margin:0 auto;padding:0 16px}header{background:#ede9fe;border-bottom:1px solid #ddd6fe;padding:14px 0} .brand{font-weight:700;font-size:1.2rem;color:#5b21b6}nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:8px;font-size:.92rem}main{padding:8px 0 40px}h1{font-size:1.7rem;color:#4c1d95;margin:18px 0 12px;line-height:1.3}h2{font-size:1.32rem;color:#5b21b6;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #ddd6fe}h3{font-size:1.08rem;color:#6d28d9;margin:18px 0 8px}p,ul,ol{margin-bottom:10px}ol,ul{padding-left:1.2rem}.cols{display:flex;flex-wrap:wrap;gap:14px}.col{flex:1 1 260px;background:#fff;padding:16px;border-radius:8px;border:1px solid #e5e7eb}.plans{display:flex;flex-wrap:wrap;gap:14px;margin:14px 0}.plan{flex:1 1 230px;background:#fff;padding:18px;border:1px solid #c4b5fd;border-radius:10px}.plan.featured{border:2px solid #7c3aed;background:#f5f3ff}.price{font-size:1.35rem;font-weight:700;color:#5b21b6}.annual{font-size:.85rem;color:#6b7280;margin:4px 0 8px}.feat{list-style:none;padding-left:0;margin-top:8px}.feat li{padding:4px 0 4px 16px;position:relative}.feat li:before{content:\"·\";position:absolute;left:0;color:#7c3aed;font-weight:700}.clients{display:flex;flex-wrap:wrap;gap:12px}.client{flex:1 1 200px;background:#fff;padding:14px;border-left:4px solid #7c3aed}details{background:#fff;margin:10px 0;padding:12px 16px;border-radius:6px;border:1px solid #e5e7eb}summary{font-weight:600;color:#4c1d95}details p{margin:8px 0 0}footer{background:#1f2937;color:#e5e7eb;padding:28px 0;font-size:.9rem}footer a{color:#c4b5fd}footer h2,footer h3{color:#ddd6fe;border:none;font-size:1.05rem;margin:14px 0 8px}.ad{background:#4c1d95;color:#fff;padding:12px;border-radius:6px;margin:12px 0;text-align:center}.links,.sitemap ul{display:flex;flex-wrap:wrap;gap:8px 16px;list-style:none;padding:0}.note{font-size:.88rem;color:#4b5563}</style><header><div class=\"wrap\"><div class=\"brand\">白嫖(Estars) 官方网站</div><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#nodes\">节点线路</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">站点地图</a></nav></div></header><main><div class=\"wrap\"><h1>白嫖(Estars)</h1><p id=\"intro\">白嫖(Estars) 是面向个人用户与小团队的机场订阅与 VPN 梯子服务。我们把网络加速、流媒体解锁和游戏向线路放在同一套订阅里，让你用常见客户端即可完成配置。本页是白嫖(Estars)官方网站信息入口，说明套餐差异、客户端选择方式和导入步骤，便于你按设备完成官方下载与连接。</p><p>服务侧重点是稳定可用，而不是堆砌无法核验的峰值宣传。节点覆盖常用地区，旗舰与团队套餐提供 IPLC 游戏优化与更高同时在线数。订阅按月流量计费，年付可降低折合月费。请仅通过官网用户中心获取订阅链接，避免第三方转发造成的失效或安全风险。</p><h2 id=\"scenes\">使用场景</h2><div class=\"cols\"><div class=\"col\"><h3>跨境办公与协作</h3><p>访问海外文档、代码托管、会议工具时，选择延迟较低的邻近节点，减少页面超时与上传中断。团队版支持更多设备同时在线，适合共用一个订阅的小型工作室。</p></div><div class=\"col\"><h3>流媒体与资讯</h3><p>基础版可解锁常见基础流媒体；旗舰版与团队版强调全节点原生解锁取向，适合长时间观看。实际片源与地区库仍受平台策略影响，切换标注解锁的线路通常更稳妥。</p></div><div class=\"col\"><h3>游戏与实时对战</h3><p>旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的对战与下载更新。请把游戏进程走游戏节点、把下载走高带宽节点，避免一条线路既跑加速又跑大文件。</p></div></div><h2 id=\"plans\">套餐方案</h2><p>以下为当前公开档位。流量为每月额度，周期结束重置；同时在线设备数按客户端实际连接统计。年付价在对应档位页结算时生效。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"note\">选择档位时先估算同时在线设备和高峰用量：轻度浏览与影音选基础版；需要游戏线路与优先售后选旗舰版；多人共用或需要定制分流选团队版。</p><h2 id=\"clients\">客户端选择与官方下载指引</h2><p>白嫖(Estars) 采用通用订阅格式，不捆绑单一安装包。请先在用户中心复制订阅地址，再按系统下载对应客户端并导入。下列为常用组合，下载请走各客户端项目自己的发布页，勿使用来路不明的「一键包」。</p><div class=\"clients\"><section class=\"client\"><h3>Windows</h3><p>推荐 Clash Verge 或 Clash Meta 系图形客户端。安装后新建配置文件，粘贴订阅 URL，开启系统代理或 TUN。适合同时跑浏览器、办公软件与游戏加速规则。</p></section><section class=\"client\"><h3>macOS</h3><p>常用 ClashX.Meta 或 Surge。导入订阅后检查「增强模式」或等效 TUN，避免部分应用绕过代理。菜单栏可快速切换节点与规则模式。</p></section><section class=\"client\"><h3>Android</h3><p>推荐 Clash Meta for Android 或 v2rayNG。授予 VPN 权限后更新订阅，按需打开分应用代理，让仅目标 App 走梯子，节省流量并降低耗电。</p></section><section class=\"client\"><h3>iOS</h3><p>常用 Shadowrocket、Stash、Quantumult X。需使用可安装这些应用的商店账号。导入订阅后开启「代理」并按规则分流；蜂窝网络与 Wi‑Fi 建议分别测试连通。</p></section><section class=\"client\"><h3>其他环境</h3><p>Linux 可用 Clash Meta 命令行或图形前端；路由器可在 OpenWrt 等系统导入订阅做旁路由。团队版支持按域名与 IP 定制路由，适合把办公网段与娱乐网段分开。</p></section></div><p>客户端选择原则：你更熟哪一套界面就用哪一套；同一订阅可在多台设备导入，但不要超过套餐同时在线上限。配置更新后若连不上，先手动「更新订阅」再切换协议或端口。</p><h2 id=\"guide\">操作说明</h2><ol><li>打开白嫖(Estars)官网用户中心，选择基础版、旗舰版或团队版完成订阅。</li><li>在订阅详情中复制通用链接（Clash / SIP008 等格式按客户端要求选取）。</li><li>根据上一节下载并安装对应客户端，不要修改来路不明的配置文件。</li><li>在客户端中添加远程订阅，等待节点列表刷新，开启系统代理或 VPN 模式。</li><li>先选延迟较低的综合节点做网页测试，再按场景切到流媒体或 IPLC 游戏节点。</li><li>将常用规则保存为配置档：办公直连国内、代理海外、游戏走专线，减少来回切换。</li></ol><p>若导入失败，检查链接是否完整、客户端是否支持该订阅类型、本地时间是否准确。时间偏差过大会导致部分协议握手失败。</p><h2 id=\"nodes\">节点与线路说明</h2><p>节点池包含香港、日本、新加坡、美国等常用出口，普通线路适合浏览与下载，旗舰与团队可使用 IPLC 游戏优化与更高带宽 VIP 节点。我们按晚高峰表现调整负载，不承诺某一时刻的绝对带宽数字。遇到单节点异常时，优先换同区域其他线路，再提交工单并注明节点名与时间段。</p><p>流媒体解锁依赖出口 IP 质量，平台风控变化时可能需要改线路。游戏加速请关闭占用上行的网盘与视频上传，避免和实时对战抢带宽。</p><h2 id=\"faq\">常见问题</h2><details><summary>白嫖(Estars) 提供哪些服务？和普通 VPN 有何不同？</summary><p>白嫖(Estars) 提供机场订阅形态的网络加速：一份订阅可在多款客户端使用，节点按场景划分（综合、流媒体、游戏）。相对单一 App 式 VPN，你可以自由选择 Clash、Shadowrocket 等工具，并按套餐获得不同流量、设备数与线路等级。本站为官方网站，用于说明套餐、下载指引与导入步骤。</p></details><details><summary>如何购买套餐并完成客户端下载与导入？</summary><p>在官网完成基础版、旗舰版或团队版订阅后，到用户中心复制订阅地址。再回到本页「客户端选择」按 Windows、macOS、Android、iOS 下载对应软件，粘贴订阅并更新节点。官方不提供改装安装包，请从客户端项目正规发布渠道获取。</p></details><details><summary>三个套餐怎样选？年付和月付有何差异？</summary><p>轻度使用、三台设备以内选基础版（100GB）。需要原生流媒体、IPLC 游戏优化和优先工单选旗舰版（300GB、五台设备）。多人共用、需要定制路由和客户经理选团队版（1000GB、二十台设备）。年付对应价为 ¥150 / ¥350 / ¥850，折合月费更低，流量仍按自然月重置。</p></details><details><summary>能否解锁 Netflix 等流媒体？ChatGPT 一类服务是否可用？</summary><p>基础版覆盖基础流媒体；旗舰版与团队版以全节点原生解锁为取向，多数情况下可观看常见海外影音。AI 与特定网站取决于出口质量与对方风控，请优先使用标注解锁或原生的节点。可用性会随目标站策略变化，持续异常请用工单反馈。</p></details><details><summary>流量耗尽或设备超限会怎样？</summary><p>月流量用尽后当月加速会受限或暂停，可升级套餐或等待下月重置。同时在线超过档位上限时，新连接可能失败，请在客户端断开闲置会话。流量统计以用户中心为准，建议在路由器或手机端打开分应用代理，避免系统更新占满额度。</p></details><details><summary>游戏延迟高或不稳定如何处理？</summary><p>改用旗舰或团队中的 IPLC 游戏节点，关闭占用上行的下载任务，并在客户端为游戏进程单独分流。可对比同区域多个节点的延迟与丢包。若仅个别时段异常，记录节点名称与时间后提交优先工单（旗舰）或联系客户经理（团队）。</p></details><details><summary>如何确认自己访问的是官方网站并联系售后？</summary><p>请收藏本页所示官方入口，只在用户中心复制订阅、提交工单。旗舰版提供 7x24 优先工单，团队版另有专属客户经理。不要向非官方人员发送订阅链接或付款截图。退订与发票类问题同样走工单说明订单号即可。</p></details></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"ad\">推广：团队网络加速与定制分流需求，请通过用户中心工单咨询白嫖(Estars)客户经理，获取与现有套餐衔接的部署建议。</div><h2>友情链接</h2><div class=\"links\"><a href=\"#\">系统与安全更新说明</a><a href=\"#\">客户端规则语法备忘</a><a href=\"#\">分流策略入门</a><a href=\"#\">工单提交指引</a><a href=\"#\">年付结算说明</a></div><h2 id=\"sitemap\">站点地图</h2><ul class=\"sitemap\"><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#clients\">客户端下载</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#nodes\">节点线路</a></li><li><a href=\"#faq\">常见问题</a></li></ul><p>XML 站点地图路径：/sitemap.xml（与本页锚点结构对应，供抓取使用）。</p><p>白嫖(Estars) 官方网站 · 机场订阅与 VPN 梯子网络加速服务 · 客户端请从正规渠道下载</p></div></footer>",
+          "hash": "5aa3e3250a3bce7a7f6fe9238b12107a742a2201fa2fdd301335b42cf6cb363c",
+          "seo": {
+            "title": "白嫖(Estars)官网 - VPN梯子网络加速、机场订阅与客户端官方下载",
+            "keywords": "白嫖(Estars),Estars,白嫖VPN,Estars机场,VPN梯子,网络加速器,客户端下载,机场订阅,Estars官网,Estars官方下载,流媒体解锁,游戏加速",
+            "description": "白嫖(Estars)是提供VPN梯子与机场订阅的网络加速服务官网，支持多端客户端下载与配置，覆盖基础到团队套餐，适用于流媒体、游戏加速与跨境办公，欢迎访问官方网站获取订阅与下载说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bt-pb.cn",
+    "host": "p-41c7ad084b.bt-pb.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "bt-pb.cn",
+      "url": "https://bt-pb.cn/",
+      "label": "次元雲",
+      "apex": "bt-pb.cn",
+      "kind": null,
+      "identity": "jyxwre/page-7529a00c2ea44aa41b82776b"
+    },
+    {
+      "host": "afjbk.cn",
+      "url": "https://afjbk.cn/",
+      "label": "白嫖(Estars)",
+      "apex": "afjbk.cn",
+      "kind": null,
+      "identity": "s38dcff6p/page-6171c9262b4ff12d32b41951"
+    },
+    {
+      "host": "xhjxkgc.cn",
+      "url": "https://xhjxkgc.cn/",
+      "label": "白嫖(Estars)",
+      "apex": "xhjxkgc.cn",
+      "kind": null,
+      "identity": "yeqbrungek/page-8b587bfc42b20765b8e4dcac"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "dc43946c0924f92944b8758a3ee89779914e4b86aaf2f5747ad3c03708d85d5c",
+    "sitemap.xml": "1269ab52137bbda3f6fda4ee8f29117baa4721106511e018b6317c97ac720244",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e9031cc1f385f206981ea095550f329f358b05179182603549a5939769976846",
+    "robots.txt": "6c7e4ccc8d76221b9aa66348a32bd234c743b37bdc669127f705d71666ab32f0",
+    "eebfa478b5516ffeaad0eff064509c33.txt": "04f2393f02235a9a7e00e39be70345e039a07f8a88d7c69e82adc47a5365f5ad"
+  },
+  "revision": "2ed54b89ce94989739d2a962b36dcd52d571aa19cf812d549f2bbcddd59ce468"
+}
